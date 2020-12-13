@@ -46,7 +46,7 @@
             href="https://www.creative-tim.com/learning-lab/tailwind/svelte/overview/notus?ref=ns-index-navbar"
           >
             <i class="text-gray-500 far fa-file-alt text-lg leading-lg mr-2" />
-            Docs
+            Documents
           </a>
         </li>
       </ul>
