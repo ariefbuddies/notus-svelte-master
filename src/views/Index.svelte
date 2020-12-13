@@ -46,14 +46,14 @@
             target="_blank"
             class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-red-500 active:bg-red-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
           >
-            Get started
+            Sewa Motor
           </a>
           <a
             href="https://github.com/creativetimofficial/notus-svelte?ref=ns-index"
             class="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-800 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
             target="_blank"
           >
-            Github Star
+            Rental Mobil
           </a>
         </div>
       </div>
@@ -135,7 +135,7 @@
                   <i class="fas fa-sitemap"></i>
                 </div>
                 <h6 class="text-xl mb-1 font-semibold">
-                  CSS Components
+                  Sewa Motor
                 </h6>
                 <p class="mb-4 text-gray-600">
                   Notus Svelte comes with a huge number of Fully Coded CSS
@@ -151,7 +151,7 @@
                   <i class="fas fa-drafting-compass"></i>
                 </div>
                 <h6 class="text-xl mb-1 font-semibold">
-                  JavaScript Components
+                  Rental Mobil
                 </h6>
                 <p class="mb-4 text-gray-600">
                   We also feature many dynamic components for React, NextJS, Vue
@@ -183,7 +183,7 @@
                   <i class="fas fa-file-alt"></i>
                 </div>
                 <h6 class="text-xl mb-1 font-semibold">
-                  Documentation
+                  Penginapan
                 </h6>
                 <p class="mb-4 text-gray-600">
                   Built by developers for developers. You will love how easy is
