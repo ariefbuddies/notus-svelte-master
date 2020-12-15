@@ -5,7 +5,7 @@
   import IndexNavbar from "components/Navbars/IndexNavbar.svelte";
   import Footer from "components/Footers/Footer.svelte";
 
-  const patternVue = "/assets/img/pattern_svelte.png";
+  const patternVue = "/assets/img/13.png";
   const componentBtn = "/assets/img/component-btn.png";
   const componentProfileCard = "/assets/img/component-profile-card.png";
   const componentInfoCard = "/assets/img/component-info-card.png";
@@ -97,7 +97,7 @@
         >
           <img
             alt="..."
-            src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+            src="/assets/img/m14.jpg"
             class="w-full align-middle rounded-t-lg"
           />
           <blockquote class="relative p-8 mb-4">
@@ -217,7 +217,7 @@
                   src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/svelte.jpg"
                 />
                 <p class="text-lg text-white mt-4 font-semibold">
-                  Svelte
+                  Svelteh
                 </p>
               </div>
             </a>
