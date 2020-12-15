@@ -168,7 +168,7 @@
                 >
                   <i class="fas fa-newspaper"></i>
                 </div>
-                <h6 class="text-xl mb-1 font-semibold">Pages</h6>
+                <h6 class="text-xl mb-1 font-semibold">SEPEDA</h6>
                 <p class="mb-4 text-gray-600">
                   This extension also comes with 3 sample pages. They are fully
                   coded so you can start working instantly.
