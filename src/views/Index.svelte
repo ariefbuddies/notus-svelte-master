@@ -313,17 +313,7 @@
 
 
        
-      <div class="w-full md:w-6/12 mr-auto px-4 pt-24 md:pt-0">
-        <img
-          alt="..."
-          class="max-w-full rounded-lg shadow-xl"
-          style="
-            transform: scale(1) perspective(1040px) rotateY(-11deg)
-              rotateX(2deg) rotate(2deg);
-          "
-          src="{documentation}"
-        />
-      </div>
+      
     </div>
   </div>
 
