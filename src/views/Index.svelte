@@ -63,7 +63,7 @@
   <img
     class="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860-px"
     src="{patternVue}"
-    alt="..."
+    alt="Bening eunha"
   />
 </section>
 
@@ -109,16 +109,14 @@
             >
               <polygon
                 points="-30,95 583,95 583,65"
-                class="text-blue-500 fill-current"
+                class="text-red-500 fill-current"
               ></polygon>
             </svg>
             <h4 class="text-xl font-bold text-white">
               Pelayanan terbaik untuk pelanggan!
             </h4>
             <p class="text-md font-light mt-2 text-white">
-              Putting together a page has never been easier than matching
-              together pre-made components. From landing pages presentation to
-              login areas, you can easily customise and built your pages.
+              Berjuang sekuat tenaga.
             </p>
           </blockquote>
         </div>
@@ -318,7 +316,7 @@
                   src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/svelte.jpg"
                 />
                 <p class="text-lg text-white mt-4 font-semibold">
-                  Svelte
+                  SvelteR
                 </p>
               </div>
             </a>
