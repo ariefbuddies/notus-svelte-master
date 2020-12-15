@@ -307,74 +307,8 @@
       </div>
 
       <div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
-        <div
-          class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-        >
-          <i class="fas fa-drafting-compass text-xl"></i>
-        </div>
-        <h3 class="text-3xl mb-2 font-semibold leading-normal">
-          Javascript Components
-        </h3>
-        <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
-          In order to create a great User Experience some components require
-          JavaScript. In this way you can manipulate the elements on the page
-          and give more options to your users.
-        </p>
-        <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
-          We created a set of Components that are dynamic and come to help you.
-        </p>
-        <div class="block pb-6">
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Alerts
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Dropdowns
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Menus
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Modals
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Navbars
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Popovers
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Tabs
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Tooltips
-          </span>
-        </div>
-        <a
-          href="https://www.creative-tim.com/learning-lab/tailwind/svelte/alerts/notus?ref=ns-index"
-          target="_blank"
-          class="font-bold text-gray-800 hover:text-gray-600 ease-linear transition-all duration-150"
-        >
-          View all
-          <i class="fa fa-angle-double-right ml-1 leading-relaxed"></i>
-        </a>
-      </div>
-    </div>
+        
+    
   </div>
 
   <div class="container mx-auto px-4 pb-32 pt-48">
