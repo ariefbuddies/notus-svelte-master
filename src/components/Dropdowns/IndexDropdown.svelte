@@ -29,7 +29,7 @@
     bind:this="{btnDropdownRef}"
     on:click="{toggleDropdown}"
   >
-    Demo Pages
+    Hal Demo
   </a>
   <div
     bind:this="{popoverDropdownRef}"
