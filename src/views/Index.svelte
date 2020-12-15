@@ -311,73 +311,7 @@
     
   </div>
 
-  <div class="container mx-auto px-4 pb-32 pt-48">
-    <div class="items-center flex flex-wrap">
-      <div class="w-full md:w-5/12 ml-auto px-12 md:px-4">
-        <div class="md:pr-12">
-          <div
-            class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-          >
-            <i class="fas fa-file-alt text-xl"></i>
-          </div>
-          <h3 class="text-3xl font-semibold">
-            Complex Documentation
-          </h3>
-          <p class="mt-4 text-lg leading-relaxed text-gray-600">
-            This extension comes a lot of fully coded examples that help you get
-            started faster. You can adjust the colors and also the programming
-            language. You can change the text and images and you're good to go.
-          </p>
-          <ul class="list-none mt-6">
-            <li class="py-2">
-              <div class="flex items-center">
-                <div>
-                  <span
-                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-gray-100 mr-3"
-                  >
-                    <i class="fas fa-fingerprint"></i>
-                  </span>
-                </div>
-                <div>
-                  <h4 class="text-gray-600">
-                    Built by Developers for Developers
-                  </h4>
-                </div>
-              </div>
-            </li>
-            <li class="py-2">
-              <div class="flex items-center">
-                <div>
-                  <span
-                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-gray-100 mr-3"
-                  >
-                    <i class="fab fa-html5"></i>
-                  </span>
-                </div>
-                <div>
-                  <h4 class="text-gray-600">
-                    Carefully crafted code for Components
-                  </h4>
-                </div>
-              </div>
-            </li>
-            <li class="py-2">
-              <div class="flex items-center">
-                <div>
-                  <span
-                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-gray-100 mr-3"
-                  >
-                    <i class="far fa-paper-plane"></i>
-                  </span>
-                </div>
-                <div>
-                  <h4 class="text-gray-600">
-                    Dynamic Javascript Components
-                  </h4>
-                </div>
-              </div>
-            </li>
-          </ul>
+
         </div>
       </div>
 
