@@ -337,23 +337,6 @@
                 </p>
               </div>
             </a>
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/alerts/notus?ref=ns-index"
-              target="_blank"
-            >
-              <div
-                class="bg-gray-800 shadow-lg rounded-lg text-center p-8 mt-8"
-              >
-                <img
-                  alt="..."
-                  class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                  src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg"
-                />
-                <p class="text-lg text-white mt-4 font-semibold">
-                  NextJS
-                </p>
-              </div>
-            </a>
           </div>
           <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
             <a
@@ -371,21 +354,7 @@
                 </p>
               </div>
             </a>
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/angular/alerts/notus?ref=ns-index"
-              target="_blank"
-            >
-              <div class="bg-red-700 shadow-lg rounded-lg text-center p-8 mt-8">
-                <img
-                  alt="..."
-                  class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                  src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular.jpg"
-                />
-                <p class="text-lg text-white mt-4 font-semibold">
-                  Angular
-                </p>
-              </div>
-            </a>
+    
             <a
               href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=ns-index"
               target="_blank"
