@@ -109,11 +109,11 @@
             >
               <polygon
                 points="-30,95 583,95 583,65"
-                class="text-red-500 fill-current"
+                class="text-blue-500 fill-current"
               ></polygon>
             </svg>
             <h4 class="text-xl font-bold text-white">
-              Great for your awesome project
+              Pelayanan terbaik untuk pelanggan!
             </h4>
             <p class="text-md font-light mt-2 text-white">
               Putting together a page has never been easier than matching
