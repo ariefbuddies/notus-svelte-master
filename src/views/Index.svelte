@@ -198,65 +198,7 @@
   </div>
 
   <div class="container mx-auto overflow-hidden pb-20">
-    <div class="flex flex-wrap items-center">
-      <div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
-        <div
-          class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-        >
-          <i class="fas fa-sitemap text-xl"></i>
-        </div>
-        <h3 class="text-3xl mb-2 font-semibold leading-normal">
-          CSS Components
-        </h3>
-        <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
-          Every element that you need in a product comes built in as a
-          component. All components fit perfectly with each other and can have
-          different colours.
-        </p>
-        <div class="block pb-6">
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Buttons
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Inputs
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Labels
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Menus
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Navbars
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Pagination
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Progressbars
-          </span>
-          <span
-            class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2"
-          >
-            Typography
-          </span>
-        </div>
-        
-    </div>
+  </div>
 
     <div class="flex flex-wrap items-center pt-32">
       <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
