@@ -312,9 +312,7 @@
   </div>
 
 
-        </div>
-      </div>
-
+       
       <div class="w-full md:w-6/12 mr-auto px-4 pt-24 md:pt-0">
         <img
           alt="..."
