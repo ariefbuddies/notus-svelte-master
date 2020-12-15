@@ -121,8 +121,7 @@
           </blockquote>
         </div>
       </div>
-
-      <div class="w-full md:w-6/12 px-4">
+<div class="w-full md:w-6/12 px-4">
         <div class="flex flex-wrap">
           <div class="w-full md:w-6/12 px-4">
             <div class="relative flex flex-col mt-4">
@@ -194,10 +193,7 @@
       </div>
     </div>
   </div>
-
-    
-
-      <div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
+<div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
         <div
           class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
         >
@@ -267,8 +263,7 @@
       </div>
     </div>
   </div>
-
-  <div class="container mx-auto px-4 pb-32 pt-48">
+<div class="container mx-auto px-4 pb-32 pt-48">
     <div class="items-center flex flex-wrap">
       <div class="w-full md:w-5/12 ml-auto px-12 md:px-4">
         <div class="md:pr-12">
@@ -337,8 +332,7 @@
           </ul>
         </div>
       </div>
-
-      <div class="w-full md:w-6/12 mr-auto px-4 pt-24 md:pt-0">
+<div class="w-full md:w-6/12 mr-auto px-4 pt-24 md:pt-0">
         <img
           alt="..."
           class="max-w-full rounded-lg shadow-xl"
@@ -351,18 +345,6 @@
       </div>
     </div>
   </div>
-
-  <div class="justify-center text-center flex flex-wrap mt-24">
-    <div class="w-full md:w-6/12 px-12 md:px-4">
-      <h2 class="font-semibold text-4xl">Beautiful Example Pages</h2>
-      <p class="text-lg leading-relaxed mt-4 mb-4 text-gray-600">
-        Notus Svelte is a completly new product built using our past
-        experience in web templates. Take the examples we made for you and start
-        playing with them.
-      </p>
-    </div>
-  </div>
-</section>
 
 <section class="block relative z-1 bg-gray-700">
   <div class="container mx-auto">
