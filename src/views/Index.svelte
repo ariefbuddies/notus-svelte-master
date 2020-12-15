@@ -198,7 +198,7 @@
   </div>
 
   <div class="container mx-auto overflow-hidden pb-20">
-  </div>
+  
 
     <div class="flex flex-wrap items-center pt-32">
       <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
