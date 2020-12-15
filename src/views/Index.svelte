@@ -113,12 +113,10 @@
               ></polygon>
             </svg>
             <h4 class="text-xl font-bold text-white">
-              Great for your awesome project
+              All New Avanza
             </h4>
             <p class="text-md font-light mt-2 text-white">
-              Putting together a page has never been easier than matching
-              together pre-made components. From landing pages presentation to
-              login areas, you can easily customise and built your pages.
+              Harga Rental 300 Ribu / Hari
             </p>
           </blockquote>
         </div>
