@@ -5,7 +5,7 @@
   import IndexNavbar from "components/Navbars/IndexNavbar.svelte";
   import Footer from "components/Footers/Footer.svelte";
 
-  // const patternVue = "/assets/img/15.png";
+  const patternVue = "/assets/img/15.png";
   const componentBtn = "/assets/img/component-btn.png";
   const componentProfileCard = "/assets/img/component-profile-card.png";
   const componentInfoCard = "/assets/img/component-info-card.png";
