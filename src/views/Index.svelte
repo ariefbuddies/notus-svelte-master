@@ -42,14 +42,14 @@
         </p>
         <div class="mt-12">
           <a
-            href="https://www.creative-tim.com/learning-lab/tailwind/svelte/overview/notus?ref=ns-index"
+            href="https://beningabaditransport.com/sewa-motor/"
             target="_blank"
             class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-red-500 active:bg-red-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
           >
             Sewa Motor
           </a>
           <a
-            href="https://github.com/creativetimofficial/notus-svelte?ref=ns-index"
+            href="https://beningabaditransport.com/rental-mobil/"
             class="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-800 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
             target="_blank"
           >
