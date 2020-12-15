@@ -24,7 +24,7 @@
 
 <div>
   <a
-    class="hover:text-gray-600 text-gray-800 px-3 py-2 flex items-center text-xs uppercase font-bold"
+    class="hover:text-gray-600 text-gray-800 px-3 py-2 flex items-center text-xs lowercase font-bold"
     href="#pablo"
     bind:this="{btnDropdownRef}"
     on:click="{toggleDropdown}"
