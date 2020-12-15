@@ -63,7 +63,7 @@
   <img
     class="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860-px"
     src="{patternVue}"
-    alt="Bening eunha"
+    alt="..."
   />
 </section>
 
@@ -194,7 +194,6 @@
       </div>
     </div>
   </div>
-
 
     <div class="flex flex-wrap items-center pt-32">
       <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
