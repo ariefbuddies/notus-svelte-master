@@ -199,7 +199,7 @@
 
   <div class="container mx-auto overflow-hidden pb-20">
   
-
+<div>
     <div class="flex flex-wrap items-center pt-32">
       <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
         <div class="justify-center flex flex-wrap relative">
@@ -221,8 +221,6 @@
                 </p>
               </div>
             </a>
-            
-           
           </div>
           <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
             <a
@@ -255,7 +253,6 @@
                 </p>
               </div>
             </a>
-          </div>
             <a
               href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=ns-index"
               target="_blank"
@@ -276,6 +273,7 @@
           </div>
         </div>
       </div>
+  </div>
 <div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
 </div>
     </div>
