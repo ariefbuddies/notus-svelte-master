@@ -276,12 +276,14 @@
         </div>
       </div>
 <div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
-      </div>
+</div>
+    </div>
+  </div>
 <div class="justify-center text-center flex flex-wrap mt-24">
     <div class="w-full md:w-6/12 px-12 md:px-4">
       <h2 class="font-semibold text-4xl">Let's svelte!!</h2>
       <p class="text-lg leading-relaxed mt-4 mb-4 text-gray-600">
-        Lets the svelte begin!!!
+        Let's the svelte begin!!!
       </p>
     </div>
   </div>
