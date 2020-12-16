@@ -55,6 +55,7 @@
           >
             Rental Mobil
           </a>
+          <div>
           <a
             href="https://beningabaditransport.com/penginapan/"
             target="_blank"
@@ -62,7 +63,7 @@
           >
             PENGINAPAN
           </a>
-          
+          </div>
         </div>
       </div>
     </div>
