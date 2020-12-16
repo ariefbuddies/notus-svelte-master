@@ -39,7 +39,7 @@
           . It features multiple HTML elements and it comes with dynamic
           components for ReactJS, Vue and Angular.
         </p>
-        <div>
+        <div class="mt-12">
           <a
             href="https://www.creative-tim.com/learning-lab/tailwind/svelte/overview/notus?ref=ns-index"
             target="_blank"
