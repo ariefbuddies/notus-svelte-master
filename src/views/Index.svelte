@@ -42,31 +42,37 @@
         </p>
         <div class="mt-12">
           <a
-            href="https://www.creative-tim.com/learning-lab/tailwind/svelte/overview/notus?ref=ns-index"
+            href="https://beningabaditransport.com/sewa-motor/"
             target="_blank"
             class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-red-500 active:bg-red-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
           >
             Sewa Motor
           </a>
           <a
-            href="https://github.com/creativetimofficial/notus-svelte?ref=ns-index"
+            href="https://beningabaditransport.com/rental-mobil/"
             class="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-800 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
             target="_blank"
           >
             Rental Mobil
           </a>
+          <a
+            href="https://beningabaditransport.com/penginapan/"
+            target="_blank"
+            class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-red-500 active:bg-red-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+          >
+            PENGINAPAN
+          </a>
+          
         </div>
       </div>
     </div>
   </div>
-
-  <img
+<img
     class="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860-px"
     src="{patternVue}"
     alt="..."
   />
 </section>
-
 <section class="mt-48 md:mt-40 pb-40 relative bg-gray-200">
   <div
     class="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
@@ -196,10 +202,8 @@
       </div>
     </div>
   </div>
-
-  <div class="container mx-auto overflow-hidden pb-20">
-  
-<div>
+<div class="container mx-auto overflow-hidden pb-20">
+  <div>
     <div class="flex flex-wrap items-center pt-32">
       <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
         <div class="justify-center flex flex-wrap relative">
