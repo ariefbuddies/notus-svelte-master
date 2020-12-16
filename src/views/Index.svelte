@@ -5,7 +5,7 @@
   import IndexNavbar from "components/Navbars/IndexNavbar.svelte";
   import Footer from "components/Footers/Footer.svelte";
 
-  const patternVue = "/assets/img/13.png";
+  const patternVue = "/assets/img/pattern_svelte.png";
   const componentBtn = "/assets/img/component-btn.png";
   const componentProfileCard = "/assets/img/component-profile-card.png";
   const componentInfoCard = "/assets/img/component-info-card.png";
@@ -97,7 +97,7 @@
         >
           <img
             alt="..."
-            src="/assets/img/m14.jpg"
+            src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
             class="w-full align-middle rounded-t-lg"
           />
           <blockquote class="relative p-8 mb-4">
@@ -217,12 +217,42 @@
                   src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/svelte.jpg"
                 />
                 <p class="text-lg text-white mt-4 font-semibold">
-                  Svelteh
+                  Svelte
                 </p>
               </div>
             </a>
-            
-           
+            <a
+              href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=ns-index"
+              target="_blank"
+            >
+              <div class="bg-blue-500 shadow-lg rounded-lg text-center p-8 mt-8">
+                <img
+                  alt="..."
+                  class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
+                  src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react.jpg"
+                />
+                <p class="text-lg text-white mt-4 font-semibold">
+                  ReactJS
+                </p>
+              </div>
+            </a>
+            <a
+              href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/alerts/notus?ref=ns-index"
+              target="_blank"
+            >
+              <div
+                class="bg-gray-800 shadow-lg rounded-lg text-center p-8 mt-8"
+              >
+                <img
+                  alt="..."
+                  class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
+                  src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg"
+                />
+                <p class="text-lg text-white mt-4 font-semibold">
+                  NextJS
+                </p>
+              </div>
+            </a>
           </div>
           <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
             <a
