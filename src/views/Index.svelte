@@ -66,6 +66,7 @@
   />
 </section>
 </div>
+</div>
 
 <section class="mt-48 md:mt-40 pb-40 relative bg-gray-200">
   <div
