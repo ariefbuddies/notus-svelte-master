@@ -153,6 +153,7 @@
           </div>
         </div>
         </div>
+  </div>
 <div class="container mx-auto overflow-hidden pb-20">
  <div class="flex flex-wrap items-center pt-32">
       <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
@@ -175,6 +176,7 @@
                 </p>
               </div>
             </a>
+          </div>
 <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
             <a
               href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=ns-index"
