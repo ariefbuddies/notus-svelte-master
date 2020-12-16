@@ -255,6 +255,7 @@
                 </p>
               </div>
             </a>
+          </div>
             <a
               href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=ns-index"
               target="_blank"
