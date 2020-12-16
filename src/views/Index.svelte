@@ -86,7 +86,6 @@
       ></polygon>
     </svg>
   </div>
-  </div>
   <div class="container row mx-auto">
     <div class="flex flex-wrap items-center">
       <div
