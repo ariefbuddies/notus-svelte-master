@@ -18,7 +18,6 @@
   const landing = "/assets/img/landing.jpg";
   export let location;
 </script>
-
 <IndexNavbar />
 <section class="header relative pt-16 items-center flex h-screen max-h-860-px">
   <div class="container mx-auto items-center flex flex-wrap">
@@ -57,14 +56,12 @@
         </div>
       </div>
     </div>
-
-  <img
+<img
     class="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860-px"
     src="{patternVue}"
     alt="..."
   />
 </section>
-
 <section class="mt-48 md:mt-40 pb-40 relative bg-gray-200">
   <div
     class="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
@@ -121,8 +118,7 @@
       </div>
     </div>
   </div>
- 
-          <div class="flex flex-wrap items-center">
+           <div class="flex flex-wrap items-center">
       <div
         class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32"
       >
@@ -157,11 +153,8 @@
           </div>
         </div>
         </div>
-
-  <div class="container mx-auto overflow-hidden pb-20">
-  
-
-    <div class="flex flex-wrap items-center pt-32">
+<div class="container mx-auto overflow-hidden pb-20">
+ <div class="flex flex-wrap items-center pt-32">
       <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
         <div class="justify-center flex flex-wrap relative">
           <div class="my-4 w-full lg:w-6/12 px-4">
@@ -182,10 +175,7 @@
                 </p>
               </div>
             </a>
-
-           
- 
-          <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
+<div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
             <a
               href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=ns-index"
               target="_blank"
@@ -236,19 +226,9 @@
           </div>
         </div>
       </div>
-
       <div class="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
-        
-    
   </div>
-
-
-       
-      
-    </div>
-  </div>
-
-  <div class="justify-center text-center flex flex-wrap mt-24">
+    <div class="justify-center text-center flex flex-wrap mt-24">
     <div class="w-full md:w-6/12 px-12 md:px-4">
       <h2 class="font-semibold text-4xl">Beautiful Example Pages</h2>
       <p class="text-lg leading-relaxed mt-4 mb-4 text-gray-600">
