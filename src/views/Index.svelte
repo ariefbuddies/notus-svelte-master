@@ -76,13 +76,13 @@
       xmlns="http://www.w3.org/2000/svg"
       preserveAspectRatio="none"
       version="1.1"
-      viewBox="0 0 2560 100"
+      viewBox="0 0 2560 200"
       x="0"
       y="0"
     >
       <polygon
         class="text-gray-200 fill-current"
-        points="2560 0 2560 100 0 100"
+        points="2560 0 2560 200 0 200"
       ></polygon>
     </svg>
   </div>
