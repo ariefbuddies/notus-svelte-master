@@ -157,7 +157,7 @@
           </div>
         </div>
         </div>
-  </div>
+
   <div class="container mx-auto overflow-hidden pb-20">
   
 
@@ -182,7 +182,7 @@
                 </p>
               </div>
             </a>
-          </div>
+
            
  
           <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
