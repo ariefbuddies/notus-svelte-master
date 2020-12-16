@@ -184,7 +184,7 @@
             </a>
             
            
-          </div>
+ 
           <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
             <a
               href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=ns-index"
