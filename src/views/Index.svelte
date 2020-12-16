@@ -40,7 +40,8 @@
           . It features multiple HTML elements and it comes with dynamic
           components for ReactJS, Vue and Angular.
         </p>
-        <div class="mt-12">
+      <div>
+  <div class="mt-12">
           <a
             href="https://beningabaditransport.com/sewa-motor/"
             target="_blank"
@@ -55,7 +56,7 @@
           >
             Rental Mobil
           </a>
-          <div>
+          
           <a
             href="https://beningabaditransport.com/penginapan/"
             target="_blank"
