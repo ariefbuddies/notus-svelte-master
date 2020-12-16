@@ -28,8 +28,7 @@
           AriefB Svelte
         </h2>
         <p class="mt-4 text-lg leading-relaxed text-gray-600">
-          Notus Svelte is Free and Open Source. It does not change or
-          add any CSS to the already one from
+          Ambyarr Svelte
           <a
             href="https://tailwindcss.com/?ref=creativetim"
             class="text-gray-700"
