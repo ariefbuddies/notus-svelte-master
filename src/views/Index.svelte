@@ -157,7 +157,6 @@
         </div>
       </div>
     </div>
-  </div>
 
   <div class="container mx-auto overflow-hidden pb-20">
   
